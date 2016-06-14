@@ -1,0 +1,7 @@
+var michaelDukakis = function(){
+
+return( ', in michaelDukakis ');
+
+};
+
+module.exports=michaelDukakis;

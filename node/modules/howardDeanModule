@@ -1,0 +1,8 @@
+var bernieSandersModule = require('/.bernieSandersModule');
+
+var howardDeanModule=function(){
+var output = ' ... cabot cheese ftw' + bernieSandersModule();
+return( output );
+};
+
+module.exports=howardDeanModule;
